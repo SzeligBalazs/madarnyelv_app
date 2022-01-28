@@ -1,16 +1,33 @@
-# madarnyelv_fordito
+# Madárnyelv App
 
-A new Flutter project.
+A Madárnyelv App megtanít madárnyelven beszélni.
 
-## Getting Started
+## Mi az a madárnyelv?
 
-This project is a starting point for a Flutter application.
+Az alkalmazás madárnyelvre fordít bármilyen mondatot. Ezen kívül felolvassa és akár el is küldi egy barátodnak. Vannak benne példa szövegek is. Ha érdekel mi az a madárnyelv, töltsd le az appot, vagy nézd meg a bemutató videóját.
 
-A few resources to get you started if this is your first Flutter project:
+Itt tölteni a Google Play Áruházból: https://play.google.com/store/apps/details?id=com.devendloper.madarnyelvapp
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+A bemutató videó is itt van: https://www.youtube.com/watch?v=Gek7btTZsXg
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Az új frissítés videója: https://youtu.be/Dgm4agLsyns
+
+## Hogyan tudsz csatlakozni a fejlesztéshez?
+
+1. Töltsd le a projektet:
+```bash
+git clone https://github.com/SzeligBalazs/madarnyelv_app.git
+```
+
+2. Készítsd elő a projektet
+
+```bash
+cd madarnyelv_app
+flutter pub get
+```
+3. Futtasd az appot
+
+```bash
+flutter run
+```
